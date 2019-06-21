@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigdata.iml" filepath="$PROJECT_DIR$/.idea/modules/bigdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigdata_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bigdata_main.iml" group="bigdata" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bigdata_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bigdata_test.iml" group="bigdata" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/elasticsearch.iml" filepath="$PROJECT_DIR$/.idea/modules/elasticsearch.iml" group="elasticsearch" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/elasticsearch/elasticsearch_main.iml" filepath="$PROJECT_DIR$/.idea/modules/elasticsearch/elasticsearch_main.iml" group="elasticsearch" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/elasticsearch/elasticsearch_test.iml" filepath="$PROJECT_DIR$/.idea/modules/elasticsearch/elasticsearch_test.iml" group="elasticsearch" />
+    </modules>
+  </component>
+</project>
